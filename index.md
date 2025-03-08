@@ -16,19 +16,21 @@ Textured 3D morphing creates **smooth** and **plausible** interpolation sequence
         </div>
     </div>
 </div>
+
 ---
-# More Qualitative Experimental Results
-# 3D Generation Model: Gaussian Anything
-# How to Align/Prepare the Input 3D and Images with GaussianAnything?
-# How to Choose Appropriate 3D Diffusion Models for 3D Morphing?
-# Semantics of the Same Position in Different Blocks
-# Baseline Methods and Implementation Details
-# Related Works That You Might Confuse: Comparisons with Shape Morphing Methods and Out-of-Setting Clarification
-# Exploratory Experiments with Explicit Correspondence
-# Testing Protocol and Cases
-# Raw Statistics of User Study
-# Failure Cases and Analysis
----
+## More Implementation Details and Discussions ([Supplementary Materials Download](https://raw.githubusercontent.com/anonymous-888/anonymous/main/static/ICCV_3D_Morphing___SM.pdf))
+
+1. More Qualitative Experimental Results
+2. 3D Generation Model: Gaussian Anything
+3. How to Align/Prepare the Input 3D and Images with GaussianAnything?
+4. How to Choose Appropriate 3D Diffusion Models for 3D Morphing?
+5. Semantics of the Same Position in Different Blocks
+6. Baseline Methods and Implementation Details
+7. Related Works That You Might Confuse: Comparisons with Shape Morphing Methods and Out-of-Setting Clarification
+8. Exploratory Experiments with Explicit Correspondence
+9. Testing Protocol and Cases
+10. Raw Statistics of User Study
+11. Failure Cases and Analysis
 
 ## More Cases (Ours)
 
