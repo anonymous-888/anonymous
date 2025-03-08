@@ -3,8 +3,8 @@ layout: project_page
 permalink: /
 
 title: Textured 3D Regenerative Morphing with 3D Diffusion Prior
-authors:
-    Paper 5140
+authors: Paper 5140
+supplementary materials: https://raw.githubusercontent.com/anonymous-888/anonymous/main/static/ICCV_3D_Morphing___SM.pdf
 ---
 
 <!-- Using HTML to center the abstract -->
