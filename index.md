@@ -4,7 +4,7 @@ permalink: /
 
 title: Textured 3D Regenerative Morphing with 3D Diffusion Prior
 authors: Paper 5140
-supplementary materials: https://raw.githubusercontent.com/anonymous-888/anonymous/main/static/ICCV_3D_Morphing___SM.pdf
+
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -16,7 +16,18 @@ Textured 3D morphing creates **smooth** and **plausible** interpolation sequence
         </div>
     </div>
 </div>
-
+---
+# More Qualitative Experimental Results
+# 3D Generation Model: Gaussian Anything
+# How to Align/Prepare the Input 3D and Images with GaussianAnything?
+# How to Choose Appropriate 3D Diffusion Models for 3D Morphing?
+# Semantics of the Same Position in Different Blocks
+# Baseline Methods and Implementation Details
+# Related Works That You Might Confuse: Comparisons with Shape Morphing Methods and Out-of-Setting Clarification
+# Exploratory Experiments with Explicit Correspondence
+# Testing Protocol and Cases
+# Raw Statistics of User Study
+# Failure Cases and Analysis
 ---
 
 ## More Cases (Ours)
